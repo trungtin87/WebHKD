@@ -1,0 +1,6 @@
+{
+  "name": "Tạo Trang Cửa Hàng Việt",
+  "description": "Công cụ tạo trang giới thiệu cửa hàng và hộ kinh doanh Việt Nam: điền thông tin, niêm yết giá, gắn Zalo & số điện thoại, xem trước nhiều giao diện truyền thống và xuất file dùng ngay.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
